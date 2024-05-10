@@ -1,9 +1,7 @@
 # DirectMyXL
 
+MyXL Direct
 
+Review: 
 
-View: 
-
-https://raw.githubusercontent.com/MWPROJECT567/DirectMyXL/main/MyXL.html
-
-https://raw.githubusercontent.com/MWPROJECT567/DirectMyXL/main/MyXL.html
+https://raw.githack.com/MWPROJECT567/DirectMyXL/main/MyXL.html
